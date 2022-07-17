@@ -1,0 +1,2 @@
+# monty
+Stack LIFO FIFO
